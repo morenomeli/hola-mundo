@@ -15,4 +15,4 @@ añadiendo mas lineas al archivo readme
 
 haciendo ejercicio 1,2 y 3 en GitHub
 
-empezamos el segundon semestre de la tecnicatura de programación
+empezamos el segundon semestre de la tecnicatura de programación 2023
